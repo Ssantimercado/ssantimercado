@@ -1,12 +1,13 @@
 # Santiago Mercado
-**Backend Developer | Software Development Student**
+**Backend Developer | Software Development Student**  
+📍 *Mendoza, Argentina*
 
 Desarrollador de software orientado al Backend y la creación de aplicaciones web. Actualmente cursando el 3er año (etapa final) de la Tecnicatura en Desarrollo de Software, enfocado en construir soluciones eficientes, APIs robustas y bases de datos relacionales.
 
 ### 👨‍💻 Sobre mí
 
 - 🔭 Desarrollando **irrigAr**, un prototipo funcional para la gestión integral de turnos de riego agrícola.
-- 💻  Experiencia práctica construyendo y desplegando aplicaciones.
+- 💻 Experiencia práctica construyendo y desplegando aplicaciones.
 - 🌱 Profundizando conocimientos en **Python (FastAPI/Flask)**, **React**, **Java** y metodologías ágiles (Scrum).
 - 🎯 En búsqueda activa de un rol como **Junior Developer** o pasantía para aportar valor en un equipo de desarrollo.
 
