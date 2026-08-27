@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # 👋 ¡Hola! Soy Santiago Mercado
 
 💻 **Estudiante de Desarrollo de Software**
@@ -72,5 +67,4 @@ El proyecto permite trabajar con usuarios, propiedades y turnos de riego, utiliz
 
 💼 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/santiago-mercado-238055268/)
 
-📧 **Email:** [santimercado2022@gmail.com](mailto:santimercado2022@gmail.com)
-
+📧 **Email:** [santimercado2022@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=santimercado2022@gmail.com)
